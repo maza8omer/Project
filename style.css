@@ -1,0 +1,49 @@
+* {
+    
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+
+}
+body{
+  text-decoration :none ;
+  
+}
+.father{
+  background-color:#E1C49F;
+  color: #1D1A1A;
+}
+
+ .header  h1{
+    text-align: center ;
+  }
+ .header  h2{
+   text-align: center ;
+ }
+
+ father  .lan{
+  
+}
+father  .skills{
+  
+  
+}
+father  .prog  h2{
+  border: 2px solid  grey;
+  
+}
+.social   h1{
+  text-align : center;
+  
+}
+.soc{
+  text-align :center ;
+}
+
+.feeter  img{
+  margin: 2px;
+  padding:-2px;
+  width: 100%;
+  height: 70%;
+}
